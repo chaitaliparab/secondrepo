@@ -4,7 +4,7 @@ public class SecondProject {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("second repo");
+		System.out.println("Second Repository");
 	}
 
 }
